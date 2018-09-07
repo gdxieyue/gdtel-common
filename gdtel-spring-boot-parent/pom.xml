@@ -8,8 +8,6 @@
         <artifactId>gdtel-common</artifactId>
         <version>0.0.3-SNAPSHOT</version>
     </parent>
-
-    <groupId>com.gdtel</groupId>
     <artifactId>gdtel-spring-boot-parent</artifactId>
     <packaging>pom</packaging>
 
